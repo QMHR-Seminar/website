@@ -7,7 +7,7 @@ theme: lux
 
 ## Purpose
 
-The Quantitative Methods In Health Research (QMHR) Seminar Series is organized by the [Nasri Lab](https://www.bouchrarnasri.com/) at the École de santé publique de l'Université de Montréal. The goal of this seminar is to bring together researchers, academics, and students that work in the health sciences in order to share their work and encourage networking within the field.
+The Quantitative Methods In Health Research (QMHR) Seminar Series is organized by the [Nasri Lab](https://www.bouchrarnasri.com/) at the École de santé publique de l'Université de Montréal. The goal of this seminar is to bring together researchers, academics, and students that work in quantitative health sciences in order to share their work and encourage networking within the field.
 
 ## Schedule
 
