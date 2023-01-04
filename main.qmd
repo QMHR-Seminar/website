@@ -15,7 +15,7 @@ The QMHR Seminar Series is scheduled to start on January of 2023.
 
 | Date         | Speaker | Talk Title |
 |--------------|:--------|-----------:|
-| Jan 20, 2023 | [Ismaila Baldé](https://www.researchgate.net/profile/Ismaila-Balde-3)     |        Variable Selection for Causal Inference |
+| Jan 20, 2023 | [Ismaila Baldé](https://www.researchgate.net/profile/Ismaila-Balde-3), _Université de Moncton_    |        Variable Selection for Causal Inference |
 | Feb 17, 2023 | TBD     |        TBD |
 | Mar 24, 2023 | TBD     |        TBD |
 | Apr 21, 2023 | TBD     |        TBD |
