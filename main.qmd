@@ -13,12 +13,12 @@ The Quantitative Methods In Health Research (QMHR) Seminar Series is organized b
 
 The QMHR Seminar Series is scheduled to start on January of 2023.
 
-| Date         | Speaker | Talk Title |
-|--------------|:--------|-----------:|
-| Jan 20, 2023 | [Ismaila Baldé](https://www.researchgate.net/profile/Ismaila-Balde-3), _Université de Moncton_    |        Variable Selection for Causal Inference |
-| Feb 17, 2023 | [Jemila Hamid Seid](https://science.uottawa.ca/mathstat/en/people/hamid-jemila-seid), _University of Ottawa_     |        TBD |
-| Mar 24, 2023 | [Grace Yi](https://www.csd.uwo.ca/people/faculty/bios/yi.html), _University of Western Ontario_     |        TBD |
-| Apr 21, 2023 | TBD     |        TBD |
+| Date         | Speaker                                                                                                      |                              Talk Title |
+|---------------|:------------------------------------------|--------------:|
+| Jan 20, 2023 | [Ismaila Baldé](https://www.researchgate.net/profile/Ismaila-Balde-3), *Université de Moncton*               | Variable Selection for Causal Inference |
+| Feb 17, 2023 | [Jemila Hamid Seid](https://science.uottawa.ca/mathstat/en/people/hamid-jemila-seid), *University of Ottawa* |                                     Residuals in Bilinear Regression Models and Applications in the Analysis of Longitudinal Data  |
+| Mar 24, 2023 | [Grace Yi](https://www.csd.uwo.ca/people/faculty/bios/yi.html), *University of Western Ontario*              |                                                                   How myths about noisy data may mislead us?     |
+| Apr 21, 2023 | TBD                                                                                                          |                                     TBD |
 
 : Schedule for the Seminar Series
 
