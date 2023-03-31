@@ -18,7 +18,7 @@ The QMHR Seminar Series is scheduled to start on January of 2023.
 | Jan 20, 2023 | [Ismaila Baldé](https://www.researchgate.net/profile/Ismaila-Balde-3), *Université de Moncton*               | Variable Selection for Causal Inference |
 | Feb 17, 2023 | [Jemila Hamid Seid](https://science.uottawa.ca/mathstat/en/people/hamid-jemila-seid), *University of Ottawa* |                                     Residuals in Bilinear Regression Models and Applications in the Analysis of Longitudinal Data  |
 | Mar 24, 2023 | [Grace Yi](https://www.csd.uwo.ca/people/faculty/bios/yi.html), *University of Western Ontario*              |                                                                   How myths about noisy data may mislead us?     |
-| Apr 21, 2023 | TBD                                                                                                          |                                     TBD |
+| Apr 21, 2023 | [Lisa Lix](https://umanitoba.ca/medicine/faculty-staff/lisa-lix), _University of Manitoba_                                                                                                        | Predicting Offspring Health Outcomes with Familial Health Histories: Challenges of Record Linkage Studies |
 
 : Schedule for the Seminar Series
 
